@@ -23,9 +23,8 @@ file=file_name
 touch "$file"1
 touch ${file}2
 
-
-
 # The systematic use of braces is recommended.
+
 
 
 
@@ -45,7 +44,6 @@ set
 
 
 # Substitute commands
-
 mydate=`date`
 echo $mydate
 
