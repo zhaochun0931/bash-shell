@@ -11,6 +11,16 @@
 # The true command always returns true while the false command always returns false
 
 
+# There are commands that allow you to change the behavior of a loop:
+
+# exit
+# break
+# continue
+
+
+
+
+
 for i in 1 2 3
 do
     echo $i
