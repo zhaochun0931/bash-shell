@@ -1,4 +1,6 @@
 bash -version
+bash --version
+
 
 
 # enable debug mode
