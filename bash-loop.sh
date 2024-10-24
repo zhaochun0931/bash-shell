@@ -75,6 +75,29 @@ done
 
 
 
+
+
+
+while true
+do
+    date
+    sleep 1
+done
+
+
+
+
+
+while :
+do
+    date
+    sleep 1
+done
+
+
+
+
+
 if date
 then
   date
