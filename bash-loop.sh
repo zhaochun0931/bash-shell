@@ -1,3 +1,22 @@
+# while
+# until
+# for
+# select
+
+
+# Whatever the loop used, the commands to be repeated are placed between the words do and done.
+
+
+
+for i in 1 2 3
+do
+    echo $i
+done
+
+
+
+
+
 if date
 then
   date
