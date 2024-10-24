@@ -21,6 +21,19 @@
 
 
 
+
+# The exit command ends the execution of the script.
+
+# The exit command ends the script immediately. It is possible to specify the return code of the script by giving it as an argument (from 0 to 255).
+
+# The break command allows you to interrupt the loop by going to the first command after done.
+
+# The continue command allows you to restart the loop by going back to the first command after done.
+
+
+
+
+
 for i in 1 2 3
 do
     echo $i
