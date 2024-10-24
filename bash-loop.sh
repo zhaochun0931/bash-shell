@@ -8,6 +8,9 @@
 
 
 
+# The true command always returns true while the false command always returns false
+
+
 for i in 1 2 3
 do
     echo $i
