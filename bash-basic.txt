@@ -19,3 +19,10 @@ ctrl + k
 
 # delete from current cursor to the beginning of line
 ctrl + u
+
+
+
+# history command
+ctrl + r
+
+ctrl + g
